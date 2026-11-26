@@ -1,41 +1,53 @@
 {
-  "nombre": "Mi Emprendimiento",
-  "eslogan": "Escribe aquí tu eslogan",
-  "logo": "logo.svg",
+  "nombre": "Bienbenido a choco delicious",
+  "eslogan": "venan y atrevance a probar nuestras ricas y deliciosas chocotejas",
+  "logo": "logo-deli.png",
   "colores": {
-    "principal": "#1F6F5B",
-    "secundario": "#F4B942",
+    "principal": "#FFDDBD",
+    "secundario": "#B7482B",
     "fondo": "#F6F8F7",
     "texto": "#1B2430"
   },
   "fuentes": {
-    "titulo": "Nunito",
-    "cuerpo": "Nunito"
+    "titulo": "Bricolage Grotesque",
+    "cuerpo": "Figtree"
   },
   "esquinas": "suaves",
   "portada": {
-    "badge": "⭐ 100% Pura Fruta Natural",
-    "titulo": "Marcianos de pura fruta",
-    "subtitulo": "Refrescantes, deliciosos y preparados artesanalmente con fruta fresca seleccionada.",
-    "productoDestacado": "Marciano de Fresa",
-    "imagen": "productos/producto-1.svg",
-    "textoBoton": "Ver productos",
-    "textoBotonSecundario": "Pedir por WhatsApp"
+    "titulo": "¿No quieres probar una de estas?",
+    "subtitulo": "te aseguro que te encantaran",
+    "imagen": "productos/images.jpeg",
+    "textoBoton": "Ver productos"
   },
   "nosotros": {
-    "titulo": "Quiénes somos",
-    "texto": "Somos estudiantes de secundaria y creamos este emprendimiento durante el curso de Educación para el Trabajo. Aquí cuentas cómo nació tu idea y qué problema resuelve.",
+    "titulo": "¿Quiénes somos?",
+    "texto": "Hola, nosotros somos choco delicious, bueno somos estudiantes de 5.° de secundaria y creamos esta tienda durante el curso de Educación para el Trabajo. Nosotros nos dedicamos a crear productos de calidad ,que no sea tan caro pero que sea y aun asi tengan un buen sabor. Ahí nacio nuestra idea de vender choocotejas.",
     "puntos": [
-      "Productos hechos con cuidado",
-      "Precios justos",
-      "Atención directa por WhatsApp"
+      "Productos hechos con cuidado y dedicacion",
+      "Precios con las tres b: bueno bonito y barato",
+      "Atención directa por WhatsApp y si no responde, ya fue "
     ]
   },
   "contacto": {
-    "whatsapp": "51980528386",
-    "mensaje": "Hola, quiero más información sobre sus productos",
-    "horario": "Lunes a viernes, de 3:00 p. m. a 6:00 p. m.",
+    "whatsapp": "51936817912",
+    "mensaje": "Hola, tengo una consulta sobre sus productos, ¿me ayuda?",
+    "horario": "Este jueves, de 12:50 a. m. a 1:50 p. m.",
     "instagram": "",
     "facebook": ""
+  },
+  "tienda": {
+    "recojo": "Recojo en el colegio (lugar y hora a coordinar por WhatsApp)",
+    "ofreceDelivery": true,
+    "delivery": "Delivery en tu zona.Y si vives en un cerro, ya fue (se coordina por WhatsApp)",
+    "costoDelivery": 3
+  },
+  "pagos": {
+    "efectivo": "Pagas en efectivo al recibir o recoger tu pedido. Si puedes, ten el monto exacto,pero si no no hay ningun problema.",
+    "yapePlin": {
+      "numero": "936145921",
+      "titular": "andrea",
+      "qr": "",
+      "instrucciones": "Paga con Yape o Plin al número indicado y envía la captura del pago por WhatsApp."
+    }
   }
 }

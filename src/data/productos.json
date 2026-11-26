@@ -1,28 +1,24 @@
 [
   {
-    "nombre": "Marciano de Fresa",
-    "descripcion": "Elaborado con fresas seleccionadas, refrescante y con el dulzor exacto.",
-    "precio": 2.5,
-    "imagen": "productos/producto-1.svg",
-    "etiqueta": "Más vendido",
-    "destacado": true
+    "id": "producto-1",
+    "nombre": "las Choco big",
+    "descripcion": "Chocotejas mas grandes de lo habitual.",
+    "precio": 3.0,
+    "imagen": "productos/images.jpeg",
+    "etiqueta": "lo mas vendido"
   },
   {
-    "nombre": "Nombre del producto 2",
-    "descripcion": "Máximo 110 caracteres: qué es, de qué está hecho o para qué sirve.",
-    "precio": 8,
-    "imagen": "productos/producto-2.svg"
+    "id": "producto-2",
+    "nombre": " Alfajorcitos ",
+    "descripcion": "alfajorcitos rellenos de manjarblanco.",
+    "precio": 1.5,
+    "imagen": "productos/Alfajor-de-chocolate.jpg"
   },
   {
-    "nombre": "Nombre del producto 3",
-    "descripcion": "Cuenta lo más importante en una sola frase.",
-    "precio": 15,
-    "imagen": "productos/producto-3.svg"
-  },
-  {
-    "nombre": "Nombre del producto 4",
-    "descripcion": "Recuerda: cada producto lleva su foto real y su precio en soles.",
-    "precio": 20,
-    "imagen": "productos/producto-4.svg"
+    "id": "producto-3",
+    "nombre": "choco sorpresa",
+    "descripcion": "chocotejas de diferentes sabores ",
+    "precio": 2.0,
+    "imagen": "productos/choco-sorpresa.webp"
   }
 ]
