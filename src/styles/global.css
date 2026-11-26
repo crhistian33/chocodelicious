@@ -471,6 +471,9 @@ a {
     margin-top: 1rem;
     width: 100%;
   }
+  .marca name {
+    display: none;
+  }
 }
 
 .tarjeta-destacado-icono {
